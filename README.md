@@ -31,3 +31,5 @@ Your `.nuke` folder should look like this:
         ToolCool.png
         ...
 ```
+---
+2020-04-07, Clementin Massin
