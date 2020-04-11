@@ -52,4 +52,6 @@ Also, live groups allow users to see what's happening inside the tools, it's mor
 
 Contact
 -
-[Clementin Massin](https://www.linkedin.com/in/clementinmassin)
+Clementin Massin -
+[GitHub](https://github.com/ClementinM?tab=repositories)
+[Linkedin](https://www.linkedin.com/in/clementinmassin)
