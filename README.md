@@ -2,7 +2,7 @@
 Little script to load automaticaly user nodes and gizmos.
 
 [![project_foundry_nuke](https://img.shields.io/badge/my%20category-foundry--nuke-orange?style=flat-square)](https://github.com/ClementinM?tab=repositories&q=%23foundry-nuke&type=&language=)
-[![project_vfx_pipeline](https://img.shields.io/badge/my%20category-vfx--pipeline-brightgreen?style=flat-square)](https://github.com/ClementinM?tab=repositories&q=%23foundry-nuke&type=&language=)
+[![project_vfx_pipeline](https://img.shields.io/badge/my%20category-vfx--pipeline-brightgreen?style=flat-square)](https://github.com/ClementinM?tab=repositories&q=%23vfx-pipeline&type=&language=)
 
 Download
 -
@@ -47,7 +47,7 @@ I suggest to use only live groups `.nk` for simple/stand-alone tools, and using 
 
 To convert a gizmo into a group, change the file ext `.gizmo` by `.nk` and edit the top part `Gizmo {` by `Group {`.
 
-Live groups can be copied/pasted easily, and a nuke script using them can be opened anywhere. Gizmos can't be used if you didn't installed it, so if you send a nuke script to someone else, this person will not be able to open it correctly without installing the gizmo.
+Live groups can be copied/pasted easily, and a nuke script using them can be opened from anywhere. Gizmos can't be used if you didn't installed it (like with this tool), so if you send a nuke script to someone else, this person will not be able to open it correctly without installing the gizmo.
 Also, live groups allow users to see what's happening inside the tools, it's more instructive :-)
 
 Contact
