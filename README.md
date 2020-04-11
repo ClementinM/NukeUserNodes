@@ -1,5 +1,5 @@
 # Nuke: UserNodes
-Little script to load automaticaly user nodes and gizmos.
+Little script to load automatically user nodes and gizmos.
 
 [![project_foundry_nuke](https://img.shields.io/badge/my%20category-foundry--nuke-orange?style=flat-square)](https://github.com/ClementinM?tab=repositories&q=%23foundry-nuke&type=&language=)
 [![project_vfx_pipeline](https://img.shields.io/badge/my%20category-vfx--pipeline-brightgreen?style=flat-square)](https://github.com/ClementinM?tab=repositories&q=%23vfx-pipeline&type=&language=)
@@ -22,7 +22,7 @@ Installation
 How to use
 -
 Simply add your `ToolName.nk` or `ToolName.gizmo` inside the `user_nodes` folder, then restart Nuke if already open.
-They will be automaticaly loaded and added into a custom node menu.
+They will be automatically loaded and added into a custom node menu.
 
 * Adding a `menu.png` or `menu.jpg` will use it as the icon of the menu.
 * You can also add a `ToolName.png` or `ToolName.jpg` to add an icon to your tool in the menu (exact same name than the tool itself).
