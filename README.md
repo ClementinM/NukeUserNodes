@@ -15,7 +15,7 @@ Installation
     * Linux & Mac: `/home/{user}/.nuke`
 2. Copy/paste the folder `user_nodes` of this package inside `.nuke`.
 4. `init.py`:
-    * If `.nuke/init.py` does not exists, simple copy/paste the `init.py` of this package inside `.nuke`.
+    * If `.nuke/init.py` does not exist, copy/paste the `init.py` of this package inside `.nuke`.
     * If `.nuke/init.py` already exists, add the content from the `init.py` of this package into the `.nuke/init.py`.
 5. Voila!
 
@@ -41,14 +41,14 @@ Example:
         ...
 ```
 
-Advice: live group vs gizmo
+Advice: group vs gizmo
 -
-I suggest to use only live groups `.nk` for simple/stand-alone tools, and using gizmo `.gizmo` only for tool using external source code for example.
+I suggest to use groups `.nk` for simple/stand-alone tools, and using gizmo `.gizmo` only for tool using external source code for example.
 
 To convert a gizmo into a group, change the file ext `.gizmo` by `.nk` and edit the top part `Gizmo {` by `Group {`.
 
-Live groups can be copied/pasted easily, and a nuke script using them can be opened from anywhere. Gizmos can't be used if you didn't installed it (like with this tool), so if you send a nuke script to someone else, this person will not be able to open it correctly without installing the gizmo.
-Also, live groups allow users to see what's happening inside the tools, it's more instructive :-)
+Groups can be copied/pasted easily, and a nuke script using them can be opened from anywhere. Gizmos can't be used if you didn't installed it (like with this tool), so if you send a nuke script to someone else, this person will not be able to open it correctly without installing the gizmo.
+Also, groups allow users to see what's happening inside the tools, it's more instructive :-)
 
 Contact
 -
